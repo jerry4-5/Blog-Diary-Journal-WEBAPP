@@ -1,0 +1,31 @@
+
+body{
+  background-color: #C6DCE4;
+}
+
+h1{
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.brandName{
+  font-size: 2rem;
+}
+.navItems{
+  margin-left: 5%;
+}
+.listItems{
+  margin-right: 5%;
+}
+.centered {
+    padding-top: 100px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+}
+.jumbotron{
+  background-color: #C6DCE4;
+}
